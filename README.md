@@ -44,13 +44,6 @@ Need custom design work or tech support?
 📞 WhatsApp: [072 349 1361](https://wa.me/27723491361)  
 📧 Email: senzomtungwa@yahoo.com
 
-## 🛠️ Tech Stack
-
-- HTML5 + CSS3  
-- Designed with GIMP, Inkscape, and LibreOffice  
-- Optimized for Linux and low-spec workflows  
-- Hosted on GitHub Pages
-
 ## 🧰 License
 
 All assets © SenzoTech. Free for personal and educational use.  
