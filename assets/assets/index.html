@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SenzoTech Portfolio</title>
+  <style>
+    /* Base Styles */
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+      animation: fadeIn 1s ease-in;
+    }
+
+    header, footer {
+      background: #222;
+      color: #fff;
+      text-align: center;
+      padding: 1.5em;
+    }
+
+    section {
+      padding: 2em;
+      max-width: 900px;
+      margin: auto;
+      animation: slideUp 0.8s ease-out;
+    }
+
+    h1, h2 {
+      color: #0077cc;
+      text-align: center;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul li {
+      background: #fff;
+      margin-bottom: 1em;
+      padding: 1em;
+      border-left: 4px solid #0077cc;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease;
+    }
+
+    ul li:hover {
+      transform: scale(1.02);
+    }
+
+    .grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1em;
+      justify-content: center;
+    }
+
+    .grid img {
+      width: 100%;
+      max-width: 250px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      transition: transform 0.3s ease, opacity 0.3s ease;
+      opacity: 0.9;
+    }
+
+    .grid img:hover {
+      transform: scale(1.05);
+      opacity: 1;
+    }
+
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    /* Animations */
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    @keyframes slideUp {
+      from { transform: translateY(20px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+
+    @media (max-width: 600px) {
+      .grid {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>SenzoTech</h1>
+    <p>Scalable Design & Tech Solutions for Freelancers and Startups</p>
+  </header>
+
+  <section id="services">
+    <h2>SenzoTech Services</h2>
+    <ul>
+      <li><strong>Graphic Design:</strong> Logos, business cards, posters, banners, flyers — all branded and print-ready.</li>
+      <li><strong>Website Design:</strong> Lightweight HTML/CSS sites for freelancers and small businesses.</li>
+      <li><strong>SEO Tracking:</strong> Basic search engine optimization and performance monitoring.</li>
+      <li><strong>PC Software Installation:</strong> Windows setup, drivers, and essential software (Office, antivirus, browsers).</li>
+    </ul>
+  </section>
+
+  <section id="portfolio">
+    <h2>Portfolio Preview</h2>
+    <p style="text-align:center;">Explore branded templates, logo grids, flyers, and thumbnails below:</p>
+    <div class="grid">
+      <img src="assets/logos/logo-grid.png" alt="Logo Grid">
+      <img src="assets/flyers/flyer-senzotech.png" alt="Flyer Preview">
+      <img src="assets/thumbnails/portfolio-thumb.png" alt="Portfolio Thumbnail">
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p style="text-align:center;">
+      📱 WhatsApp: <a href="https://wa.me/27723491361" target="_blank">072 349 1361</a><br>
+      📧 Email: <a href="mailto:senzotech@yourdomain.com">senzotech@yourdomain.com</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 SenzoTech. Built with Linux-friendly tools and open-source design stacks.</p>
+  </footer>
+
+</body>
+</html>
