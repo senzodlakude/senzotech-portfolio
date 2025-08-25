@@ -1,48 +1,54 @@
-# senzotech-portfolio# SenzoTech Graphic Design Portfolio
+# SenzoTech Portfolio
 
-Welcome to the official GitHub-hosted portfolio for **SenzoTech**, a home-based micro-enterprise delivering scalable graphic design solutions for freelancers and startups.
+Welcome to the official GitHub-hosted portfolio for **SenzoTech**, a home-based micro-enterprise offering scalable graphic design and tech solutions for freelancers and startups.
 
-## 🔥 What’s Inside
+## 💼 Services Offered
 
-- ✅ Branded invoice templates  
-- ✅ Lead magnet checklists  
-- ✅ Design style guides  
-- ✅ Portfolio showcase previews  
-- ✅ Service blueprint and onboarding guide  
-- ✅ GitHub Pages-ready HTML layout with animations and WhatsApp contact
+- 🎨 **Graphic Design**  
+  Logos, business cards, posters, banners, flyers — all branded and print-ready.
 
-## 📦 Download the Full Asset Pack
+- 🌐 **Website Design**  
+  Lightweight HTML/CSS sites optimized for freelancers and small businesses.
 
-You can download all templates, previews, and guides in one ZIP archive:  
-**[Download SenzoTech Portfolio](./SenzoTech-Portfolio.zip)**
+- 📊 **SEO Tracking**  
+  Basic search engine optimization setup and performance monitoring.
 
-## 🌐 Live Preview
+- 💻 **PC Software Installation**  
+  Windows setup, driver updates, and installation of essential software (Office, antivirus, browsers).
+
+## 🖼️ Portfolio Preview
+
+Explore branded templates, logo grids, flyers, and thumbnails in the live site or ZIP download.
+
+## 🌐 Live Site
 
 View the portfolio live via GitHub Pages:  
-**[https://yourusername.github.io/senzotech-portfolio](https://yourusername.github.io/senzotech-portfolio)**
+**[https://yourusername.github.io/senzotech-portfolio](https://yourusername.github.io/senzotech-portfolio)**  
+_(Replace `yourusername` with your GitHub username)_
+
+## 📦 Downloadable Assets
+
+All visual assets are organized in folders:
+- `assets/logos/` – Logo showcase grid  
+- `assets/flyers/` – Flyer for local/digital use  
+- `assets/brochure/` – Booklet cover  
+- `assets/thumbnails/` – Asset previews
 
 ## 📱 Contact
 
-Need custom design work or want to collaborate?  
-📩 hello@senzotech.co.za  
-📞 +27 71 234 5678  
-💬 [Chat on WhatsApp](https://wa.me/27712345678)
-
----
+Need custom design work or tech support?  
+📞 WhatsApp: [072 349 1361](https://wa.me/27723491361)  
+📧 Email: senzotech@yourdomain.com
 
 ## 🛠️ Tech Stack
 
-- HTML5 + CSS3 (no frameworks)
-- Optimized for low-spec Linux workflows
-- Designed with GIMP, Inkscape, and LibreOffice
+- HTML5 + CSS3  
+- Designed with GIMP, Inkscape, and LibreOffice  
+- Optimized for Linux and low-spec workflows  
 - Hosted on GitHub Pages
-
----
 
 ## 🧰 License
 
-All assets © SenzoTech. Redistribution or commercial use requires permission.
+All assets © SenzoTech. Free for personal and educational use.  
+Commercial use requires permission.
 
----
-
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://yourusername.github.io/senzotech-portfolio)
