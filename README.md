@@ -22,8 +22,13 @@ Explore branded templates, logo grids, flyers, and thumbnails in the live site o
 
 ## 🌐 Live Site
 
+
 View the portfolio live via GitHub Pages:  
-**https://senzo-dlakude.github.io/senzotech-portfolio
+**[https://senzo-dlakude.github.io/senzotech-portfolio](https://senzo-dlakude.github.io/senzotech-portfolio)**
+
+📷 **Scan to preview the live portfolio site:**  
+![qr-preview](assets/thumbnails/qr-preview.png)
+
 
 ## 📦 Downloadable Assets
 
