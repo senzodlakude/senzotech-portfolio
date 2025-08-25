@@ -1,0 +1,40 @@
+SenzoTech Portfolio v1.0
+Created: 25 August 2025
+Author: Senzo Dlakude
+
+📁 Folder Structure
+├── index.html              # Main portfolio page with animations and contact
+├── style.css               # Custom styles and transitions
+├── README.md               # Project overview and instructions
+├── manifest.txt            # Asset list and usage guide
+├── assets/
+│   ├── logos/              # Logo showcase grid
+│   ├── flyers/             # Flyer for local/digital use
+│   ├── brochure/           # Booklet cover for onboarding
+│   ├── thumbnails/         # Asset previews and QR code
+│   └── icons/              # (Optional) favicons or social icons
+
+🖼️ Visual Assets
+- assets/logos/logo-grid.png         → 2x2 logo showcase grid
+- assets/flyers/flyer-senzotech.png  → Branded flyer with services and contact
+- assets/brochure/cover.png          → Brochure/booklet cover design
+- assets/thumbnails/qr-preview.png   → QR code linking to GitHub Pages site
+- assets/thumbnails/portfolio-thumb.png → Portfolio thumbnail preview
+
+🔗 Live Site
+https://senzo-dlakude.github.io/senzotech-portfolio
+
+📱 Contact Info
+WhatsApp: +27 72 349 1361  
+Email: senzotech@yourdomain.com
+
+🛠️ Usage Notes
+- Open `index.html` in any browser to preview locally
+- All assets are optimized for Linux and low-spec workflows
+- WhatsApp contact is embedded in the site
+- Designed using GIMP, Inkscape, and LibreOffice
+
+📜 License
+All assets © SenzoTech. Free for personal and educational use.  
+Commercial use requires permission.
+
