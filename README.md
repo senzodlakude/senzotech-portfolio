@@ -37,7 +37,7 @@ All visual assets are organized in folders:
 
 Need custom design work or tech support?  
 📞 WhatsApp: [072 349 1361](https://wa.me/27723491361)  
-📧 Email: senzotech@yourdomain.com
+📧 Email: senzomtungwa@yahoo.com
 
 ## 🛠️ Tech Stack
 
